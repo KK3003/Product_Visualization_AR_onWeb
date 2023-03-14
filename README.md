@@ -1,2 +1,2 @@
-# Product_Visualization_AR_onWeb
- 
+# STIEBEL-ELTRON
+STIEBEL ELTRON Products Project
