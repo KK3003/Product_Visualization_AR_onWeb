@@ -4,16 +4,13 @@ This is a Augmented Reality project made using Unity, C# and BlippAR SDK.
 In this project I have created Augmented Reality web application, which scans for surface to place a product and places the product. User can drag, scale and rotate the product. User can see the product related information on the web page itself.
 ___
 # Scan Me
-![screenshot](/ScreenShots/1.jpg)
+![screenshot](/Screenshots/Fridge1.jpeg)
 ___
 # Screenshots
 ___
-![screenshot](/ScreenShots/1.jpg)
+![screenshot](/Screenshots/Fridge2.jpeg)
 ___
-![screenshot](/ScreenShots/2.jpg)
-___
-![screenshot](/ScreenShots/3.jpg)
-___
+![screenshot](/Screenshots/Fridge3.jpeg)
 ___
 # Features
 The functionalities used in this project include:
