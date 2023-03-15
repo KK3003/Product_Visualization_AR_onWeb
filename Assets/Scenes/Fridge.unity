@@ -4704,3 +4704,31 @@ PrefabInstance:
       objectReference: {fileID: 2100000, guid: 88b7ad5d37a567d43a95609cf14363f8, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 85e2085a8e56503439c66fb5f4185340, type: 3}
+--- !u!1 &4381112305693833479 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 3252279706317602565, guid: 85e2085a8e56503439c66fb5f4185340, type: 3}
+  m_PrefabInstance: {fileID: 4381112305693833478}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &4381112305693833480
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4381112305693833479}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7c73c1ab94e28d244827af556dca1ed2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Use:
+    Filter: 0
+    IgnoreStartedOverGui: 1
+    RequiredFingerCount: 0
+    RequiredMouseButtons: 0
+    RequiredSelectable: {fileID: 0}
+  _camera: {fileID: 0}
+  relative: 0
+  sensitivity: 1
+  damping: -1
+  remainingScale: {x: 0, y: 0, z: 0}
